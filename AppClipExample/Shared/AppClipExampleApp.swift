@@ -2,7 +2,7 @@
 //  AppClipExampleApp.swift
 //  Shared
 //
-//  Created by Ben Chatelain on 6/24/20.
+//  Created by Ben Chatelain on 6/25/20.
 //
 
 import SwiftUI
