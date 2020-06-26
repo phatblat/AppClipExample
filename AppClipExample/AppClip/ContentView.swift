@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  AppClipExample
+//  AppClip
 //
-//  Created by Ben Chatelain on 6/23/20.
+//  Created by Ben Chatelain on 6/25/20.
 //
 
 import SwiftUI
