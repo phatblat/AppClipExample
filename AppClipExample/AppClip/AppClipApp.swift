@@ -1,14 +1,14 @@
 //
-//  AppClipExampleApp.swift
-//  AppClipExample
+//  AppClipApp.swift
+//  AppClip
 //
-//  Created by Ben Chatelain on 6/23/20.
+//  Created by Ben Chatelain on 6/24/20.
 //
 
 import SwiftUI
 
 @main
-struct AppClipExampleApp: App {
+struct AppClipApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
